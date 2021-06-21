@@ -1,0 +1,6 @@
+/*@import '~bootstrap/dist/css/bootstrap.css';*/
+@media (min-width: 768px) {
+  .email-input{
+    width: 50%;
+  }
+}
